@@ -1,4 +1,4 @@
- Olá, eu sou o João Dums!
+ Olá, eu sou o João Pedro Dums!
 
  Desenvolvedor em evolução, apaixonado por tecnologia e construção de soluções.
 
