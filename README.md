@@ -1,12 +1,14 @@
-Olá, eu sou o João Dums!
+ Olá, eu sou o João Dums!
 
  Desenvolvedor em evolução, apaixonado por tecnologia e construção de soluções.
 
-sobre mim
 
- Estudando desenvolvimento web e software
- Sempre buscando evoluir e aprender novas tecnologias
- Compartilhando projetos e aprendizados no GitHub
+
+ Sobre mim
+
+   Estudando desenvolvimento web e software
+   Sempre buscando evoluir e aprender novas tecnologias
+   Compartilhando projetos e aprendizados no GitHub
 
 
  Tecnologias & Ferramentas
@@ -25,12 +27,13 @@ sobre mim
 </div>
 
 
+
  Estatísticas
 
 <div>
   <a href="https://github.com/JoaoDums">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDums&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDums&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDums&layout=compact&langs_count=7&theme=tokyonight&hide=python"/>
   </a>
 </div>
 
@@ -38,10 +41,17 @@ sobre mim
 
  Onde me encontrar
 
+
 <div> 
   <a href="https://github.com/JoaoDums" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+  
+  <a href="https://www.instagram.com/dpedro_joao/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/joão-pedro-dums-4b1701225/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
-
-
