@@ -1,19 +1,15 @@
-# 👋 Olá, eu sou o João Dums!
+Olá, eu sou o João Dums!
 
-🎯 Desenvolvedor em evolução, apaixonado por tecnologia e construção de soluções.
+ Desenvolvedor em evolução, apaixonado por tecnologia e construção de soluções.
 
----
+sobre mim
 
-## 🧠 Sobre mim
+ Estudando desenvolvimento web e software
+ Sempre buscando evoluir e aprender novas tecnologias
+ Compartilhando projetos e aprendizados no GitHub
 
-- 💻 Estudando desenvolvimento web e software
-- 🚀 Sempre buscando evoluir e aprender novas tecnologias
-- 📚 Compartilhando projetos e aprendizados no GitHub
-- ⚡ Foco em prática + projetos reais
 
----
-
-## 🛠️ Tecnologias & Ferramentas
+ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" 
@@ -28,9 +24,8 @@
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
----
 
-## 📊 Estatísticas
+ Estatísticas
 
 <div>
   <a href="https://github.com/JoaoDums">
@@ -39,17 +34,9 @@
   </a>
 </div>
 
----
 
-## 🔥 Projetos em destaque
 
-📌 Em constante evolução...  
-👉 Confira todos os projetos aqui:  
-🔗 https://github.com/JoaoDums
-
----
-
-## 🌎 Onde me encontrar
+ Onde me encontrar
 
 <div> 
   <a href="https://github.com/JoaoDums" target="_blank">
@@ -57,12 +44,4 @@
   </a>
 </div>
 
----
 
-## ✨ Frase
-
-> "Código bom é código que resolve problemas."
-
----
-
-⭐ Se curtir meus projetos, deixa uma estrela!
